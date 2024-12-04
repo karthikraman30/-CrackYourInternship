@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/karthikraman/Workspace/dsa_question_internship/-CrackYourInternship",
+      "program": "/Users/karthikraman/Workspace/dsa_question_internship/-CrackYourInternship/build/Debug/outDebug"
+    }
+  ]
+}
